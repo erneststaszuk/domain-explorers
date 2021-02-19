@@ -1,4 +1,4 @@
-# domain-explorers
+# Domain Explorers by ES, MZ, WZ
 ## Co to?
 W odpowiedzi na propozycję Mariusza Gila bierzemy udział w zabawie w Domain Explorers. Więcej info: https://explorers.bettersoftwaredesign.pl
 ## Co wykonaliśmy
